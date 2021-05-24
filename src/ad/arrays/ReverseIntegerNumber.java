@@ -3,6 +3,7 @@ package ad.arrays;
 public class ReverseIntegerNumber {
     /**
      * Method to reverse the given input integer.
+     * https://leetcode.com/problems/reverse-integer/
      **/
     public static int reverse(int x) {
         // Result reversed integer
