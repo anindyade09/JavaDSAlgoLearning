@@ -1,4 +1,5 @@
 # JavaDSAlgoLearning
+* July 6th 2021 - Example of how wait() and notify() works with Bank Account withdrawal and deposit
 * July 6th 2021 - Implementing Kth most frequently recurring string in a given List<String>s
 * July 4th 2021 - Refactoring of project so that Code can be easily synced
 * July 4th 2021 - Adding Implementations more implementations
